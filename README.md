@@ -1,7 +1,5 @@
 # 가능성보다는 비전으로 움직이는 야망가, 황재원입니다.
 
-![Profile Image](./assets/profile.jpg)
-
 ---
 
 ## 👤 About Me
@@ -36,7 +34,8 @@
 ### [Focus50](https://focus50.day)
 > 세상에서 가장 집중이 잘 되는 온라인 독서실
 
-![Focus50 UI](./assets/focus50_ui.png)
+![Focus50 UI](https://i.ibb.co/fGGq1h5Z/Screenshot-2022-11-14-at-8-45-27-PM.png)
+![Focus50 캘린더](https://i.ibb.co/DPLL2nCS/Screen-Shot-2022-10-18-at-1-42-37-AM-copy.png)
 
 - **1만 명 방문자**, 월간 유지율(MAU) 26%
 - **GitHub Action 기반 자동 배포**, 노쇼율 38% → 19.5% 감소
@@ -48,7 +47,7 @@
 ### [Cocobol](http://cocobol.site)
 > 고시생을 위한 직관적 커뮤니티 플랫폼
 
-![Cocobol UI](./assets/cocobol_ui.png)
+![Cocobol UI](https://i.ibb.co/QvYSFPBY/Screenshot-2023-03-03-at-12-57-41-AM.png)
 
 - 팀장 및 풀스택 개발
 - 구조화되지 않은 index.ts → 모듈 구조로 리팩토링
