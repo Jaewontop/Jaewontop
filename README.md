@@ -123,16 +123,6 @@
 - **MZ 세대 비대면 스터디 문화 관련 보도자료 배포**  
   🔗 [DIToday 보도자료 보기](https://ditoday.com/%EC%98%A8%ED%83%9D%ED%8A%B8-%EC%8B%9C%EB%8C%80-mz%EC%84%B8%EB%8C%80%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%A9%EB%B2%95/)
 
-### [Cocobol](http://cocobol.site)
-> 고시생을 위한 직관적 커뮤니티 플랫폼
-
-![Cocobol UI](https://i.ibb.co/QvYSFPBY/Screenshot-2023-03-03-at-12-57-41-AM.png)
-
-- 팀장 및 풀스택 개발
-- 구조화되지 않은 index.ts → 모듈 구조로 리팩토링
-- 배포 자동화 및 서브도메인 분기 운영
-
----
 
 ## 📰 Media
 
